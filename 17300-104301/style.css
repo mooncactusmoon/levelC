@@ -22,6 +22,7 @@ body>*:not(aside, section), aside>*, section>* {
 .top {
     flex-basis: 1000px;
     height: 65px;
+    
 }
 
 /* aside */
